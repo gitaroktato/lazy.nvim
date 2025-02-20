@@ -12,3 +12,7 @@ pip install pyright ruff debugpy
 ```shell
 PYTHONPATH=`pwd`:$PYTHONPATH nvim .
 ```
+
+## References and Guides:
+- https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
+- 
