@@ -13,6 +13,17 @@ pip install pyright ruff debugpy
 PYTHONPATH=`pwd`:$PYTHONPATH nvim .
 ```
 
+## Hotkeys to remember
+**Open up error logs**
+`:mess` or `:Noice log`
+
+**File explorer**
+Open/close
+`<SPACE>e`
+
+Show/hide hidden
+`H`
+
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
 - 
