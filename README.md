@@ -43,6 +43,7 @@ Getting errors
 ```
 <SPACE>cd
 ```
+- https://www.reddit.com/r/neovim/comments/13t74ut/how_can_i_get_better_looking_errors/
 
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
