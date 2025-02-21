@@ -13,6 +13,15 @@ pip install pyright ruff debugpy
 PYTHONPATH=`pwd`:$PYTHONPATH nvim .
 ```
 
+## Fixing the `debugpy` issue
+```shell
+cd ~/.local/share/nvim/mason/packages
+mkdir -p debugpy && cd debugpy
+python -m venv venv
+venv/bin/pip install debugpy
+```
+- https://github.com/microsoft/debugpy/issues/1345
+
 ## Hotkeys to remember
 **Open up error logs**
 `:mess` or `:Noice log`
