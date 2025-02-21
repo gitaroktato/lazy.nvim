@@ -35,4 +35,4 @@ Show/hide hidden
 
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
-- 
+- https://lazyvim-ambitious-devs.phillips.codes/course
