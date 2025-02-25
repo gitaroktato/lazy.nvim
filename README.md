@@ -46,6 +46,12 @@ Getting errors
 ```
 - https://www.reddit.com/r/neovim/comments/13t74ut/how_can_i_get_better_looking_errors/
 
+Comment out multiple lines
+```
+gc
+```
+- https://www.reddit.com/r/neovim/comments/1ejro2k/im_not_able_to_use_comment_multiple_line_feature/
+
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
 - https://lazyvim-ambitious-devs.phillips.codes/course
