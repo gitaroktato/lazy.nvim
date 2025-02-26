@@ -39,6 +39,13 @@ Show/hide hidden
 ```
 - https://www.reddit.com/r/neovim/comments/1bet4xt/how_to_switch_tabs_in_lazyvim/
 
+**Navigating**
+Move cursor in history
+```
+ctrl+i, ctrl+o
+```
+- https://www.reddit.com/r/neovim/comments/12kepcz/is_there_a_way_to_go_to_the_previous_cursor/
+
 **Ruff, Python**
 Getting errors
 ```
