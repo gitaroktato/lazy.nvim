@@ -8,6 +8,10 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 pip install pyright ruff debugpy neovim
 ```
 
+## Update `pyright`
+`MasonInstall pyright@1.1.395`
+- https://github.com/williamboman/mason.nvim/discussions/880
+
 ## To start with a specific `PYTHONPATH`
 ```shell
 PYTHONPATH=`pwd`:$PYTHONPATH nvim .
