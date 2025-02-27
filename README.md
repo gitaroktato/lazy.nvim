@@ -5,7 +5,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## What needs to be installed locally
 ```shell
-pip install pyright ruff debugpy
+pip install pyright ruff debugpy neovim
 ```
 
 ## To start with a specific `PYTHONPATH`
