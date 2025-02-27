@@ -50,6 +50,9 @@ Getting errors
 Comment out multiple lines
 `gc`
 - https://www.reddit.com/r/neovim/comments/1ejro2k/im_not_able_to_use_comment_multiple_line_feature/
+  
+Find references
+`gr`
 
 Outline
 `<leader>cs`
