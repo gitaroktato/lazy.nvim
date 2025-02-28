@@ -67,6 +67,9 @@ Outline
 `<leader>cs`
 - https://www.lazyvim.org/keymaps#outlinenvim
 
+### LazyGit
+- https://github.com/jesseduffield/lazygit/blob/master/docs/keybindings/Keybindings_en.md
+
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
 - https://lazyvim-ambitious-devs.phillips.codes/course
