@@ -51,6 +51,10 @@ Move cursor in history
 `ctrl+i, ctrl+o`
 - https://www.reddit.com/r/neovim/comments/12kepcz/is_there_a_way_to_go_to_the_previous_cursor/
 
+Word wrap
+`<space>uw`
+- https://github.com/LazyVim/LazyVim/discussions/1959
+
 **Ruff, Python**
 Getting errors
 `<SPACE>cd`
