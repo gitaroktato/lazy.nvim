@@ -35,6 +35,7 @@ venv/bin/pip install debugpy
 Setting the `justMyCode = false` variable
 - https://github.com/mfussenegger/nvim-dap/discussions/927
 - https://github.com/mfussenegger/nvim-dap/discussions/846
+- https://github.com/nvim-neotest/neotest/issues/460
 - https://www.reddit.com/r/neovim/comments/1awity5/setting_up_nvimdap_dappython_for_debugging_python/
 
 ## Hotkeys to remember
