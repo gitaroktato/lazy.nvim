@@ -31,6 +31,12 @@ venv/bin/pip install debugpy
 ```
 - https://github.com/microsoft/debugpy/issues/1345
 
+**Breakpoints in library code**
+Setting the `justMyCode = false` variable
+- https://github.com/mfussenegger/nvim-dap/discussions/927
+- https://github.com/mfussenegger/nvim-dap/discussions/846
+- https://www.reddit.com/r/neovim/comments/1awity5/setting_up_nvimdap_dappython_for_debugging_python/
+
 ## Hotkeys to remember
 **Open up error logs**
 `:mess` or `:Noice log`
