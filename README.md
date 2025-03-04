@@ -32,6 +32,7 @@ venv/bin/pip install debugpy
 - https://github.com/microsoft/debugpy/issues/1345
 
 **Breakpoints in library code**
+`:DapShowLog` to view logs
 Setting the `justMyCode = false` variable
 - https://github.com/mfussenegger/nvim-dap/discussions/927
 - https://github.com/mfussenegger/nvim-dap/discussions/846
