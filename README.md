@@ -50,6 +50,9 @@ Open/close
 Show/hide hidden
 `H`
 
+Show/hide ignored in .gitignore
+`I`
+
 **Buffers - e.g. tabs**
 `<SPACE>bb`
 - https://www.reddit.com/r/neovim/comments/1bet4xt/how_to_switch_tabs_in_lazyvim/
