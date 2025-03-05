@@ -50,6 +50,9 @@ Open/close
 Show/hide hidden
 `H`
 
+Show/hide ignored in .gitignore
+`I`
+
 **Buffers - e.g. tabs**
 `<SPACE>bb`
 - https://www.reddit.com/r/neovim/comments/1bet4xt/how_to_switch_tabs_in_lazyvim/
@@ -78,6 +81,9 @@ Find references
 Outline
 `<leader>cs`
 - https://www.lazyvim.org/keymaps#outlinenvim
+
+## Explorer Snack
+- https://github.com/folke/snacks.nvim/blob/main/docs/picker.md
 
 ### LazyGit
 - https://github.com/jesseduffield/lazygit/blob/master/docs/keybindings/Keybindings_en.md
