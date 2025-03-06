@@ -12,6 +12,7 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 `<M-` options have to set `alt_send_esc: false`
 - https://github.com/alacritty/alacritty/issues/4048
 - https://github.com/alacritty/alacritty/issues/4557
+- https://stackoverflow.com/questions/11876485/how-to-disable-generating-special-characters-when-pressing-the-alta-optiona
 
 ## What needs to be installed locally
 ```shell
