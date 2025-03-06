@@ -8,6 +8,11 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 ```
 
+# Meta key binding
+`<M-` options have to set `alt_send_esc: false`
+- https://github.com/alacritty/alacritty/issues/4048
+- https://github.com/alacritty/alacritty/issues/4557
+
 ## What needs to be installed locally
 ```shell
 pip install pyright ruff debugpy neovim
