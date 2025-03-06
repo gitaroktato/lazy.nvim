@@ -13,6 +13,7 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 - https://github.com/alacritty/alacritty/issues/4048
 - https://github.com/alacritty/alacritty/issues/4557
 - https://stackoverflow.com/questions/11876485/how-to-disable-generating-special-characters-when-pressing-the-alta-optiona
+- https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.macos_option_as_alt
 
 ## What needs to be installed locally
 ```shell
