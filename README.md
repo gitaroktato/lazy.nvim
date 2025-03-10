@@ -16,6 +16,7 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 - https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.macos_option_as_alt
 
 ## Snacks picker navigation (files, grep, etc)
+Switch between windows `<M-w>`
 - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md
 
 ## What needs to be installed locally
