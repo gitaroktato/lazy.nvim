@@ -8,12 +8,15 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 ```
 
-# Meta key binding
+## Meta key binding
 `<M-` options have to set `alt_send_esc: false`
 - https://github.com/alacritty/alacritty/issues/4048
 - https://github.com/alacritty/alacritty/issues/4557
 - https://stackoverflow.com/questions/11876485/how-to-disable-generating-special-characters-when-pressing-the-alta-optiona
 - https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.macos_option_as_alt
+
+## Snacks picker navigation (files, grep, etc)
+- https://github.com/folke/snacks.nvim/blob/main/docs/picker.md
 
 ## What needs to be installed locally
 ```shell
