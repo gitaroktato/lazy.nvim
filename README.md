@@ -51,6 +51,13 @@ Setting the `justMyCode = false` variable
 - https://www.reddit.com/r/neovim/comments/1awity5/setting_up_nvimdap_dappython_for_debugging_python/
 
 ## Hotkeys to remember
+
+**Search in hotkeys**
+`<LEADER>?k`
+
+**Search in TODO comments**
+`<LEADER>?t`
+
 **Open up error logs**
 `:mess` or `:Noice log`
 
