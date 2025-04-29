@@ -53,10 +53,10 @@ Setting the `justMyCode = false` variable
 ## Hotkeys to remember
 
 **Search in hotkeys**
-`<LEADER>?k`
+`<LEADER>sk`
 
 **Search in TODO comments**
-`<LEADER>?t`
+`<LEADER>st`
 
 **Open up error logs**
 `:mess` or `:Noice log`
