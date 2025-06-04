@@ -103,9 +103,13 @@ Outline
 ## Explorer Snack
 - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md
 
+## Working with marks
+
+
 ### LazyGit
 - https://github.com/jesseduffield/lazygit/blob/master/docs/keybindings/Keybindings_en.md
 
 ## References and Guides:
 - https://www.reddit.com/r/neovim/comments/1fgq6rq/lazyvim_python_debug_setup/
 - https://lazyvim-ambitious-devs.phillips.codes/course
+- https://cheatography.com/thesujit/cheat-sheets/lazyvim-neovim/
