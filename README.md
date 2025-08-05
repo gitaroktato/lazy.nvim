@@ -17,6 +17,7 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 
 ## Turn of Mission Control to resize screen
 <img width="668" height="466" alt="image" src="https://github.com/user-attachments/assets/080e06cd-27e2-4226-ae6f-8da38e0fad73" />
+
 - https://apple.stackexchange.com/questions/197460/why-keyboard-shortcut-ctrl-left-doesnt-work
 
 ## Snacks picker navigation (files, grep, etc)
