@@ -15,6 +15,10 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 - https://stackoverflow.com/questions/11876485/how-to-disable-generating-special-characters-when-pressing-the-alta-optiona
 - https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.macos_option_as_alt
 
+## Turn of MissionControl to resize screen
+<img width="668" height="466" alt="image" src="https://github.com/user-attachments/assets/080e06cd-27e2-4226-ae6f-8da38e0fad73" />
+
+
 ## Snacks picker navigation (files, grep, etc)
 Switch between windows `<M-w>`
 - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md
