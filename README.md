@@ -33,6 +33,22 @@ pip install pyright ruff debugpy neovim
 `MasonInstall pyright@1.1.395`
 - https://github.com/williamboman/mason.nvim/discussions/880
 
+## `pyright` config for including tests folders:
+- [Sample TOML file](https://microsoft.github.io/pyright/#/configuration?id=sample-pyprojecttoml-file)
+- [Changing `pyright` settings](https://www.reddit.com/r/neovim/comments/1eov610/how_to_change_pyright_settings_in_lazyvim/)
+- [main config options](https://microsoft.github.io/pyright/#/configuration?id=main-configuration-options)
+- [LSP settings](https://microsoft.github.io/pyright/#/settings)
+
+Sample `pyproject.toml` to include tests folder
+```toml
+[tool.pyright]
+python.analysis.include = ["tests/**"]
+venvPath = "."
+venv = ".venv"
+```
+
+Do an `:LspRestart` afterwards
+
 ## To start with a specific `PYTHONPATH`
 ```shell
 PYTHONPATH=`pwd`:$PYTHONPATH nvim .
