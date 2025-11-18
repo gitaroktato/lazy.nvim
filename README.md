@@ -71,6 +71,10 @@ Setting the `justMyCode = false` variable
 - https://github.com/nvim-neotest/neotest/issues/460
 - https://www.reddit.com/r/neovim/comments/1awity5/setting_up_nvimdap_dappython_for_debugging_python/
 
+## Various troubleshooting
+`:checkhealth ...` - will show health for that specific package
+`<leader> cl` - show LSP info
+
 ## Hotkeys to remember
 
 **Search in hotkeys**
