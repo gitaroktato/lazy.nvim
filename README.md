@@ -13,7 +13,13 @@ git clone https://github.com/gitaroktato/lazy.nvim ~/.config/nvim
 - https://github.com/alacritty/alacritty/issues/4048
 - https://github.com/alacritty/alacritty/issues/4557
 - https://stackoverflow.com/questions/11876485/how-to-disable-generating-special-characters-when-pressing-the-alta-optiona
+  
+### Kitty
 - https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.macos_option_as_alt
+  
+### Ghostty
+- https://ghostty.org/docs/config
+- https://ghostty.org/docs/config/reference#macos-option-as-alt
 
 ## Turn of Mission Control to resize screen
 <img width="668" height="466" alt="image" src="https://github.com/user-attachments/assets/080e06cd-27e2-4226-ae6f-8da38e0fad73" />
