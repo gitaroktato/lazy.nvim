@@ -4,7 +4,7 @@ return {
   {
     "nvim-mini/mini.pairs",
     opts = {
-      modes = { insert = false, command = false, terminal = false },
+      modes = { insert = true, command = true, terminal = false },
       -- skip autopair when next character is one of these
       skip_next = [=[[%w%%%'%[%"%.%`%$]]=],
       -- skip autopair when the cursor is inside these treesitter nodes
