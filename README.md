@@ -81,6 +81,12 @@ Setting the `justMyCode = false` variable
 `:checkhealth ...` - will show health for that specific package
 `<leader> cl` - show LSP info
 
+**Clipboard not working under WSL**
+Install `wl-clipboard` to resolve this issue.
+```bash
+sudo apt update && sudo apt install wl-clipboard
+```
+
 ## Hotkeys to remember
 
 **Search in hotkeys**
